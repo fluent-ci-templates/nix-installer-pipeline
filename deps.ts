@@ -1,3 +1,3 @@
-import Client from "https://sdk.fluentci.io/v0.2.0/mod.ts";
+import Client from "https://sdk.fluentci.io/v0.3.0/mod.ts";
 export default Client;
-export { connect, Container } from "https://sdk.fluentci.io/v0.2.0/mod.ts";
+export { connect, Container } from "https://sdk.fluentci.io/v0.3.0/mod.ts";
